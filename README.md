@@ -1,6 +1,9 @@
 # SHTACS Computer Science Setup
 This readme will help you through the initial setup of your computer for the AP Computer Science A course.
 
+# Current Course Material
+If you are looking for the current course material, please go [here](https://github.com/swawrzyn/shtcs-ap-cs-fall-2019).
+
 # Part 1: (For Windows only) Windows Subsystem for Linux
 In order to do some key things on the course, we need to install a program that gives us access to Linux. MacOS already has this build in. If you have OSX, please go to Part 2: Terminal.
 
