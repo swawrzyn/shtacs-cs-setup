@@ -6,7 +6,7 @@ In order to do some key things on the course, we need to install a program that 
 
 First open the Windows Powershell in Administrator mode.
 
-!(https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/powershell.jpg?raw=true)
+![How to get to Powershell](https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/powershell.jpg?raw=true)
 
 Then copy the command:
 
@@ -18,7 +18,7 @@ and restart the computer when asked.
 
 After the restart is complete, go into the Windows Store and search for 'Debian' and download it.
 
-!(https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/debian.jpg?raw=true)
+![How to download Debian](https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/debian.jpg?raw=true)
 
 Once the download is complete, launch Debian and follow the instructions.
 
@@ -38,7 +38,7 @@ Download and install Hyper: https://www.hyper.is
 
 Run Hyper and click the Burger -> Edit -> Preferences
 
-!(https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/hyper_prefs.jpg?raw=true)
+![How to find Hyper Preferences](https://github.com/swawrzyn/shtcs-cs-setup/blob/master/images/hyper_prefs.jpg?raw=true)
 
 Then find the following line:
 ```
