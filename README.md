@@ -122,11 +122,11 @@ NetBeans will be the IDE we will use for Java programming.
 
 First download the Java SDK and install it:
 
-[Windows]()
+[Windows](https://github.com/frekele/oracle-java/releases/download/8u212-b10/jdk-8u212-windows-x64.exe)
 
-[macOS]()
+[macOS](https://github.com/frekele/oracle-java/releases/download/8u212-b10/jdk-8u212-macosx-x64.dmg)
 
-Once complete, download the NetBeans package and install it:
+Download the NetBeans package and install it:
 
 [Windows](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-windows.exe)
 
