@@ -30,7 +30,24 @@ Control + Option + Shift + T
 
 For Windows:
 
-Open the Debian program.
+Let's add a better terminal:
+
+Download and install Hyper: https://www.hyper.is
+
+Run Hyper and click the Burger -> Edit -> Preferences
+
+((Prefs image))
+
+Then find the following line:
+```
+shell: '',
+```
+and replace it with:
+```
+shell: 'C:\\Windows\\System32\\bash.exe',
+```
+
+Restart Hyper and you're ready.
 
 # Part 3: Git
 We use git and github for version control, projects and homework.
@@ -52,9 +69,21 @@ Type to check it's good to go:
 git --version
 ```
 
+
 # Part 4: Github
 
 Go to https://www.github.com and sign up for an account.
+
+Set your email and name by running this in the terminal:
+
+Email:
+```
+git config --global user.email "you@git_hub_email.com"
+```
+Name:
+```
+git config --global user.name "Your Name"
+```
 
 # Part 5: Add SSH key
 
@@ -87,6 +116,18 @@ ssh -T git@github.com
 ```
 Once prompted, enter 'yes' and you should get a message saying "Hi username! You've successfully authenticated, but GitHub does not provide shell access".
 
-# Part 6: IntelliJ
+# Part 6: NetBeans
 
-IntelliJ will be the IDE we will use for Java programming. Go to https://www.jetbrains.com/idea/download, download and install the 'Community Edition'.
+NetBeans will be the IDE we will use for Java programming.
+
+First download the Java SDK and install it:
+
+[Windows]()
+
+[macOS]()
+
+Once complete, download the NetBeans package and install it:
+
+[Windows](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-windows.exe)
+
+[macOS](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-macosx.tgz)
