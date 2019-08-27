@@ -133,3 +133,8 @@ Download the NetBeans package and install it:
 [Windows](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-windows.exe)
 
 [macOS](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-macosx.tgz)
+
+
+# Part 7: Sign up for TestMyCode
+
+We will use TestMyCode for homework submission. Please go to [TestMyCode sign up page] and create a new user. Please use your real name and email.
