@@ -140,4 +140,4 @@ Download the NetBeans package and install it:
 
 # Part 7: Sign up for TestMyCode
 
-We will use TestMyCode for homework submission. Please go to [TestMyCode sign up page] and create a new user. Please use your real name and email.
+We will use TestMyCode for homework submission. Please go to [TestMyCode sign up page](https://tmc.mooc.fi/user/new) and create a new user. Please use your real name and email.
