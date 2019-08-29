@@ -1,4 +1,4 @@
-# SHTACS Computer Science Setup
+# SHTCS Computer Science Setup
 This readme will help you through the initial setup of your computer for the AP Computer Science A course.
 
 # Current Course Material
