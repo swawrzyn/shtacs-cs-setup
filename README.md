@@ -94,7 +94,7 @@ git config --global user.name "Your Name"
 
 Go to your terminal and paste in:
 ```
- ssh-keygen -t rsa -b 4096 -C "your_github_email@address.com"
+ ssh-keygen -t rsa -b 4096 -C "you@git_hub_email.com"
 ```
 
 Press enter three times until complete.
